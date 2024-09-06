@@ -1,0 +1,30 @@
+[submodule "modules/rtluckie/qmk_firmware"]
+	path = modules/rtluckie/qmk_firmware
+	url = git@github.com:rtluckie/qmk_firmware.git
+  branch = rtluckie
+
+[submodule "modules/rtluckie/qmk_userspace"]
+	path = modules/rtluckie/qmk_userspace
+	url = git@github.com:rtluckie/qmk_userspace.git
+  branch = rtluckie
+
+[submodule "modules/rtluckie/zmk"]
+	path = modules/rtluckie/zmk
+	url = git@github.com:rtluckie/zmk.git
+  branch = rtluckie
+
+[submodule "modules/getreuer/qmk-keymap"]
+	path = modules/getreuer/qmk-keymap
+	url = git@github.com:getreuer/qmk-keymap.git
+
+[submodule "modules/rafaelromao/keyboards"]
+	path = modules/rafaelromao/keyboards
+	url = git@github.com:rafaelromao/keyboards.git
+
+[submodule "modules/rafaelromao/qmk_userspace"]
+	path = modules/rafaelromao/qmk_userspace
+	url = git@github.com:rafaelromao/qmk_userspace.git
+
+[submodule "modules/drashna/qmk_userspace"]
+	path = modules/drashna/qmk_userspace
+	url = git@github.com:drashna/qmk_userspace.git

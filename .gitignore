@@ -1,0 +1,6 @@
+*secret*
+.DS_Store
+.vscode
+!src/zmk
+build
+build.log
